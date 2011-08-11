@@ -6,7 +6,6 @@ version = __import__('cms_redirects').__version__
 install_requires = [
     'setuptools',
     'django',
-    'django-cms',
 ]
 
 setup(
